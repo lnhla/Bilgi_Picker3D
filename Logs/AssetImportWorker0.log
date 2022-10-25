@@ -440,3 +440,4 @@ Received Import Request.
 Start importing Assets/Resources/Data/CDLevel.asset using Guid(70ae455a7b771324bb8089e51c37d7bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034c9470b2a7a2df912e8303d7c63dfc') in 0.036297 seconds 
   Import took 0.041196 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
